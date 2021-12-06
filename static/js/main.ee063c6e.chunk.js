@@ -14446,8 +14446,8 @@
                         label: e("Partners"),
                         href: "https://www.dexasian.com"
 					}, {
-                        label: e("Games"),
-                        href: "https://www.dexasian.com"
+                        label: e("Play Games"),
+                        href: "https://games.dexasian.com"
                     }]
                 }]
             },
