@@ -14441,10 +14441,10 @@
                         href: "https://twitter.com/AsianDex"
                     }, {
                         label: e("Terms & Conditions"),
-                        href: "https://www.dexasian.com"
+                        href: "https://dex-asian.gitbook.io/dex-asian/"
                     }, {
-                        label: e("Partners"),
-                        href: "https://www.dexasian.com"
+                        label: e("Buy Dex Asian"),
+                        href: "https://app.dexasian.com/"
 					}, {
                         label: e("Play Games"),
                         href: "https://games.dexasian.com"
@@ -17607,7 +17607,7 @@
                 var e = Object(je.b)().t;
                 return Object(V.jsx)(ei, {
                     external: !0,
-                    href: "https://www.dexasian.com/",
+                    href: "https://dexasian.finance/",
                     children: Object(V.jsxs)(U.o, {
                         px: ["14px", null, null, null, "20px"],
                         variant: "subtle",
