@@ -14437,10 +14437,16 @@
                         label: e("Email"),
                         href: "info@dexasian.finance"
                     }, {
-                        label: e("Twitter"),
-                        href: "https://twitter.com/AsianDex"
+                        label: e("Website Terms of Use"),
+                        href: "https://www.dexasian.com/website-terms-of-use/"
                     }, {
-                        label: e("Terms & Conditions"),
+                        label: e("Privacy Policy"),
+                        href: "https://www.dexasian.com/dex-asian/privacy-policy/"
+                    }, {
+                        label: e("Token Sales T&C"),
+                        href: "https://www.dexasian.com/token-sale-terms-conditions/"
+                    }, {
+                        label: e("Support"),
                         href: "https://dex-asian.gitbook.io/dex-asian/"
                     }, {
                         label: e("Buy Dex Asian"),
