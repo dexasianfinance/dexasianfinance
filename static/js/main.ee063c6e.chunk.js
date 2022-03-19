@@ -14438,19 +14438,19 @@
                         href: "info@dexasian.finance"
                     }, {
                         label: e("Website Terms of Use"),
-                        href: "https://www.dexasian.com/website-terms-of-use/"
+                        href: "https://dex-asian.gitbook.io/dex-asian/website-terms-of-use"
                     }, {
                         label: e("Privacy Policy"),
-                        href: "https://www.dexasian.com/dex-asian/privacy-policy/"
+                        href: "https://dex-asian.gitbook.io/dex-asian/privacy-policy"
                     }, {
                         label: e("Token Sales T&C"),
-                        href: "https://www.dexasian.com/token-sale-terms-conditions/"
+                        href: "https://dex-asian.gitbook.io/dex-asian/terms-and-conditions/"
                     }, {
                         label: e("Support"),
                         href: "https://dex-asian.gitbook.io/dex-asian/"
                     }, {
                         label: e("Buy Dex Asian"),
-                        href: "https://app.dexasian.com/"
+                        href: "https://tokensale.dexasian.com/"
 					}, {
                         label: e("Play Games"),
                         href: "https://games.dexasian.com"
