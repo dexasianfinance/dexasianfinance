@@ -9213,7 +9213,7 @@
             l = n(71),
             d = {
                 title: "Dex Asian",
-                description: "The most popular AMM on BSC by user count! Earn DEX through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by Dex Asian), NFTs, and more, on a platform you can trust.",
+                description: "The most popular AMM on BSC by user count! Earn DEX through yield farming, then stake it in Amazon Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by Dex Asian), NFTs, and more, on a platform you can trust.",
                 image: "https://dexasian.finance/logo.png"
             },
             p = n(88),
